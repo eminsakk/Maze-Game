@@ -8,6 +8,15 @@ Small graphical Pac-Man style Maze game
 
 ### Steps to Play the Game
 
+#### Clone the repository 
+    git clone https://github.com/eminsakk/Maze-Game
+    cd src
+#### Compile and Run
+    javac *.java
+    java Main ../data/map1.dat
 
-    
+
+
+
+
 
