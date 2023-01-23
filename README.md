@@ -15,7 +15,16 @@ Small graphical Pac-Man style Maze game
     javac *.java
     java Main ../data/map1.dat
 
-## Implementation Details
+## Game Details
+
+### Enemy
+Enemies have health and get damaged by bullets. Moves horizontally, vertically or does not
+move at all. (depending on the strategy)
+**Health**: 100 units.
+**Movement Speed**: 120 pixels per second.
+
+
+
 
 
 
