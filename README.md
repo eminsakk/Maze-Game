@@ -42,8 +42,8 @@ direction of the player. Bullets die if their time is ended.
 
 
 ## Key Notes on Implementation Details
-* **GameWindow Class** is implemented using  Singeton Design Pattern.
-* **AbstractActor Class** is implemented using Decorator Design Pattern.
+* ***GameWindow Class*** is implemented using  Singeton Design Pattern.
+* ***AbstractActor Class*** is implemented using Decorator Design Pattern.
 * ***Collision Component*** Class is implemented using Observer Design Pattern.
 * ***AbstractPatrolStrategy*** Class is implemented using Strategy Design Pattern.
 
