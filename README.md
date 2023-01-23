@@ -19,8 +19,8 @@ Small graphical Pac-Man style Maze game
 
 ### Enemy
 Enemies have health and get damaged by bullets. Moves horizontally, vertically or does not
-move at all. (depending on the strategy)
-**Health**: 100 units.
+move at all. (depending on the strategy)<br />
+**Health**: 100 units.<br />
 **Movement Speed**: 120 pixels per second.
 
 
