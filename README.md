@@ -48,9 +48,3 @@ direction of the player. Bullets die if their time is ended.
 * ***AbstractPatrolStrategy*** Class is implemented using Strategy Design Pattern.
 
 
-
-<img
-  src="C:\Users\emins\OneDrive\Desktop.maze.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
