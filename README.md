@@ -23,6 +23,24 @@ move at all. (depending on the strategy)
 * **Health**: 100 units.
 * **Movement Speed**: 120 pixels per second.
 
+### Player
+* Players do not have health they immediately die if they collide with an enemy. Moves using
+player input.
+* **Movement Speed**: 110 pixels per second.
+
+### Wall 
+* Walls don’t do much. They never die, only there to collide with others.
+
+### Bullet
+* Bullets are created by the player when the fire key is pressed. They move toward the last moved
+direction of the player. Bullets die if their time is ended.
+* **Bullet Life**: 0.7 seconds.
+* **Bullet Speed**: 300 pixels per second.
+
+### PowerUps
+* Power-ups are just there to get collected. They die when it collides with the player.
+
+
 
 
 
