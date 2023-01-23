@@ -1,9 +1,9 @@
 # Maze-Game
-Small graphical Pac-Man style Maze game
+Small graphical Pac-Man style Maze game.
 
 ### Prerequisites
 
-* Java 8 or higher
+* Java 8 or higher.
 
 
 ### Steps to Play the Game
@@ -41,11 +41,9 @@ direction of the player. Bullets die if their time is ended.
 * Power-ups are just there to get collected. They die when it collides with the player.
 
 
-
-
-
-
-
-
-
+## Key Notes on Implementation Details
+* GameWindow Class is implemented using  Singeton Design Pattern.
+* AbstractActor Class is implemented using Decorator Design Pattern.
+* Collision Component Class is implemented using Observer Design Pattern.
+* AbstractPatrolStrategy Class is implemented using Strategy Design Pattern.
 
