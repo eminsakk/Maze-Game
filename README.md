@@ -15,6 +15,8 @@ Small graphical Pac-Man style Maze game
     javac *.java
     java Main ../data/map1.dat
 
+## Implementation Details
+
 
 
 
